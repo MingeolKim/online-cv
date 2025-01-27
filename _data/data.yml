@@ -119,7 +119,7 @@ experiences:
         time: Fall 2024
         company: Applications of Operations Research
 
-      - role: International Quality Management Engineer (QME) Training Program 
+      - role: <p>International Quality Management Engineer</p> <p>Training Program</p> 
         time: January 22 - February 20, 2024
         company: Korea Testing Laboratory(한국산업기술시험원, KTL)
         details: |
@@ -137,7 +137,7 @@ experiences:
         company: Gyeonggido Business & Science Accelerator(GBSA)
         details: |
 
-      - role: President, Undergraduate Student Council
+      - role: <p>President,</p> <p>Undergraduate Student Council</p>
         time:  February 27 - December 16, 2022
         company: Department of Industrial and Management Engineering , Gachon University
         details: |
@@ -146,15 +146,15 @@ experiences:
         time: September 16, 2019 - April 5, 2021
         company: Republic of Korea Marine Corps
         details: |
-          - Position: Communications Specialist, Weapons Company (Located on Baengnyeong Island ) 
+          - Position: Communications Specialist, Weapons Company
           - Rank: Sergeant (Discharged) 
 
-      - role: Team Member, Undergraduate Student Council 
+      - role: <p>Team Member,</p> <p>Undergraduate Student Council</p> 
         time: February 25 - June 24, 2019
         company: Department of Industrial and Management Engineering , Gachon University
         details: |
 
-      - role: Team Member, Undergraduate Engineering Student Council
+      - role: <p>Team Member,</p> <p>Undergraduate Engineering Student Council</p>
         time: March 5 - December  21, 2018
         company: College of Engineering, Gachon University 
         details: |
@@ -169,7 +169,7 @@ publications:
       - title: "Optimizing Hybrid Flow Shop Scheduling in Wafer Fabrication: Balancing Quality and Productivity"
         link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964599&nodeId=NODE11964599&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=Optimizing+Hybrid+Flow+Shop+Scheduling+in+Wafer+Fabrication%3A+Balancing+Quality+and+Productivity&articleTitleEn=Optimizing+Hybrid+Flow+Shop+Scheduling+in+Wafer+Fabrication%3A+Balancing+Quality+and+Productivity&voisId=VOIS00760103&voisName=2024%EB%85%84+%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C+%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C&voisCnt=239&language=ko_KR&hasTopBanner=true"
         authors: <b style="color:black">Kim, M.-G.</b>, Lee, C.-H., Barde, S., & Kim, H
-        conference: "2024 Fall Conference of KIIE (ST Center, Seolu). (Oct 24-35, 2024)"
+        conference: "2024 Fall Conference of KIIE (ST Center, Seoul). (Oct 24-35, 2024)"
 
 
 skills:
