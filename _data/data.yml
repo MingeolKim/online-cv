@@ -25,7 +25,7 @@ sidebar:
     lab_homepage:
       text: "Lab Homepage"
       url: "https://sites.google.com/view/odm-lab/home"
-      
+
     linkedin: mingeol-kim
     xing: 
     github: MingeolKim
@@ -83,156 +83,94 @@ education:
         university: Gachon University
         time: 2018 - 2024
         
+projects:
+    title: Projects
+    intro: >
+
+    assignments:
+      - title: 포스코 마케팅 메타버스 Slab설계 최적화 구축 과제 한양대 에리카 전문교수 상세설계 용역
+        tagline: "PSOCO DX. (2024 - Present)"
+
+      - title: 산업인공지능 제조혁신 전문인력양성 사업
+        tagline: "한국산업기술진흥원. (2024 - Present)"
+
+awards:
+    title: Awards & Honors
+    intro: >
+
+    contributions: 
+      - title: Encouragement Award, 2024 Korea University Students S&OP Competi
+        tagline: "The Korean Society of Supply Chain Management (2024.11.08)"
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: CALOP Winter Lecture
+        time: January 13 - 17, 2025
+        company: Pohang University of Science and Technology(POSTECH)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Combinatorial optimization
+
+      - role: Teaching Assistant
+        time: Fall 2024
+        company: C++/Java Programming
+      
+      - role: Teaching Assistant
+        time: Fall 2024
+        company: Applications of Operations Research
+
+      - role: International Quality Management Engineer (QME) Training Program 
+        time: January 22 - February 20, 2024
+        company: Korea Testing Laboratory(한국산업기술시험원, KTL)
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          - QME
+          - ISO 9001,
+          - Six Sigma(Green Belt)
+
+      - role: Product Defect Analyst (Internship)
+        time: June 30 - December 31, 2023
+        company: InHandPlus
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - role: Data Industry Workforce Development Program
+        time:  July 25 - August 29, 2022
+        company: Gyeonggido Business & Science Accelerator(GBSA)
+        details: |
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+      - role: President, Undergraduate Student Council
+        time:  February 27 - December 16, 2022
+        company: Department of Industrial and Management Engineering , Gachon University
+        details: |
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - role: Military Service 
+        time: September 16, 2019 - April 5, 2021
+        company: Republic of Korea Marine Corps
+        details: |
+          - Position: Communications Specialist, Weapons Company (Located on Baengnyeong Island ) 
+          - Rank: Sergeant (Discharged) 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - role: Team Member, Undergraduate Student Council 
+        time: February 25 - June 24, 2019
+        company: Department of Industrial and Management Engineering , Gachon University
+        details: |
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - role: Team Member, Undergraduate Engineering Student Council
+        time: March 5 - December  21, 2018
+        company: College of Engineering, Gachon University 
+        details: |
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Optimizing Hybrid Flow Shop Scheduling in Wafer Fabrication: Balancing Quality and Productivity"
+        link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964599&nodeId=NODE11964599&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=Optimizing+Hybrid+Flow+Shop+Scheduling+in+Wafer+Fabrication%3A+Balancing+Quality+and+Productivity&articleTitleEn=Optimizing+Hybrid+Flow+Shop+Scheduling+in+Wafer+Fabrication%3A+Balancing+Quality+and+Productivity&voisId=VOIS00760103&voisName=2024%EB%85%84+%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C+%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C&voisCnt=239&language=ko_KR&hasTopBanner=true"
+        authors: <b style="color:black">Kim, M.-G.</b>, Lee, C.-H., Barde, S., & Kim, H
+        conference: "2024 Fall Conference of KIIE (ST Center, Seolu). (Oct 24-35, 2024)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -257,4 +195,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Copyright © 2025 Mingeol Kim
