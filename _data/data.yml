@@ -72,6 +72,7 @@ sidebar:
 #       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -102,40 +103,80 @@ awards:
       - title: Encouragement Award, 2024 Korea University Students S&OP Competi
         tagline: "The Korean Society of Supply Chain Management (November 8, 2024)"
 
-experiences:
-    title: Experiences
+teaching_experiences:
+    title: Teaching Assistant
     info:
-      - role: CALOP Winter Lecture
-        time: January 13 - 17, 2025
-        company: Pohang University of Science and Technology(POSTECH)
-        details: |
-          - Combinatorial optimization
-
-      - role: Teaching Assistant
+      - role: C++/Java Programming
+        institution: "Hanyang University ERICA"
         time: Fall 2024
-        company: C++/Java Programming
       
-      - role: Teaching Assistant
+      - role: Applications of Opearations Research
+        institution: "Hanyang University ERICA"
         time: Fall 2024
-        company: Applications of Operations Research
 
-      - role: <p>International Quality Management Engineer</p> <p>Training Program</p> 
-        time: January 22 - February 20, 2024
-        company: Korea Testing Laboratory(한국산업기술시험원, KTL)
-        details: |
-          - QME
-          - ISO 9001,
-          - Six Sigma(Green Belt)
+trainings:
+  title: "Training & Certifications"
+  info:
+     - program: CALOP Winter Lecture 
+      institution: Pohang University of Science and Technology(POSTECH)
+      time: January 13 - 17, 2025
+      details: |
+        - Combinatorial optimization
+       
+    - program: <p>International Quality Management Engineer</p> <p>Training Program</p> 
+      institution: "Korea Testing Laboratory (한국산업기술시험원, KTL)"
+      time: "January 22 - February 20, 2024"
+      details: |
+        - ISO 9001
+        - Six Sigma Green Belt
+        - Quality Control Techniques for manufacturing.
 
-      - role: Product Defect Analyst (Internship)
-        time: June 30 - December 31, 2023
-        company: InHandPlus
-        details: |
+    - program: Data Industry Workforce Development Program
+      institution: Gyeonggido Business & Science Accelerator(GBSA)
+      time:  July 25 - August 29, 2022
+      details: |
+        - Data Collection
+        - Data Visualization
+        - Data Analysis Techniques
+        - AI Model Training & Optimization
 
-      - role: Data Industry Workforce Development Program
-        time:  July 25 - August 29, 2022
-        company: Gyeonggido Business & Science Accelerator(GBSA)
-        details: |
+work_experiences:
+  title: "Work Experience"
+  info:
+    - role: "Product Defect Analyst"
+      company: "InHandPlus"
+      time: "June 30 - December 31, 2023"
+      details: |
+
+
+
+
+experiences:
+    title: Other Experiences
+    info:
+      # - role: CALOP Winter Lecture
+      #   time: January 13 - 17, 2025
+      #   company: Pohang University of Science and Technology(POSTECH)
+      #   details: |
+      #     - Combinatorial optimization
+
+      # - role: <p>International Quality Management Engineer</p> <p>Training Program</p> 
+      #   time: January 22 - February 20, 2024
+      #   company: Korea Testing Laboratory(한국산업기술시험원, KTL)
+      #   details: |
+      #     - QME
+      #     - ISO 9001,
+      #     - Six Sigma(Green Belt)
+
+      # - role: Product Defect Analyst (Internship)
+      #   time: June 30 - December 31, 2023
+      #   company: InHandPlus
+      #   details: |
+
+      # - role: Data Industry Workforce Development Program
+      #   time:  July 25 - August 29, 2022
+      #   company: Gyeonggido Business & Science Accelerator(GBSA)
+      #   details: |
 
       - role: <p>President,</p> <p>Undergraduate Student Council</p>
         time:  February 27 - December 16, 2022
