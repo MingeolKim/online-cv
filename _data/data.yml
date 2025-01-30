@@ -123,7 +123,7 @@ trainings:
         details: |
           - Combinatorial optimization
         
-      - program: <p>International Quality Management Engineer</p> <p>Training Program</p> 
+      - program: Quality Management Engineer Training
         institution: "Korea Testing Laboratory (한국산업기술시험원, KTL)"
         time: "January 22 - February 20, 2024"
         details: |
@@ -178,9 +178,9 @@ experiences:
       #   company: Gyeonggido Business & Science Accelerator(GBSA)
       #   details: |
 
-      - role: <p>President,</p> <p>Undergraduate Student Council</p>
+      - role: President
         time:  February 27 - December 16, 2022
-        company: Department of Industrial and Management Engineering , Gachon University
+        company: Industrial and Management Engineering Student Council, Gachon University
         details: |
 
       - role: Military Service 
@@ -190,14 +190,14 @@ experiences:
           - Position: Communications Specialist, Weapons Company
           - Rank: Sergeant (Discharged) 
 
-      - role: <p>Team Member,</p> <p>Undergraduate Student Council</p> 
+      - role: Team Member
         time: February 25 - June 24, 2019
-        company: Department of Industrial and Management Engineering , Gachon University
+        company: Industrial and Management Engineering Student Council, Gachon University
         details: |
 
-      - role: <p>Team Member,</p> <p>Undergraduate Engineering Student Council</p>
+      - role: Team Member
         time: March 5 - December  21, 2018
-        company: College of Engineering, Gachon University 
+        company: College of Engineering Student Council, Gachon University 
         details: |
 
 
