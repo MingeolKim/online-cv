@@ -115,30 +115,30 @@ teaching_experiences:
         time: Fall 2024
 
 trainings:
-  title: "Training & Certifications"
-  info:
-    - program: CALOP Winter Lecture 
-      institution: Pohang University of Science and Technology(POSTECH)
-      time: January 13 - 17, 2025
-      details: |
-        - Combinatorial optimization
-       
-    - program: <p>International Quality Management Engineer</p> <p>Training Program</p> 
-      institution: "Korea Testing Laboratory (한국산업기술시험원, KTL)"
-      time: "January 22 - February 20, 2024"
-      details: |
-        - ISO 9001
-        - Six Sigma Green Belt
-        - Quality Control Techniques for manufacturing.
+    title: "Training & Certifications"
+    info:
+      - program: CALOP Winter Lecture 
+        institution: Pohang University of Science and Technology(POSTECH)
+        time: January 13 - 17, 2025
+        details: |
+          - Combinatorial optimization
+        
+      - program: <p>International Quality Management Engineer</p> <p>Training Program</p> 
+        institution: "Korea Testing Laboratory (한국산업기술시험원, KTL)"
+        time: "January 22 - February 20, 2024"
+        details: |
+          - ISO 9001
+          - Six Sigma Green Belt
+          - Quality Control Techniques for manufacturing.
 
-    - program: Data Industry Workforce Development Program
-      institution: Gyeonggido Business & Science Accelerator(GBSA)
-      time:  July 25 - August 29, 2022
-      details: |
-        - Data Collection
-        - Data Visualization
-        - Data Analysis Techniques
-        - AI Model Training & Optimization
+      - program: Data Industry Workforce Development Program
+        institution: Gyeonggido Business & Science Accelerator(GBSA)
+        time:  July 25 - August 29, 2022
+        details: |
+          - Data Collection
+          - Data Visualization
+          - Data Analysis Techniques
+          - AI Model Training & Optimization
 
 work_experiences:
   title: "Work Experience"
