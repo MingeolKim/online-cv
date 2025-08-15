@@ -91,6 +91,7 @@ projects:
     assignments:
       - title: RIAM 러닝 팩토리 플랫폼
         tagline: 한국생산기술원 (KITECH). (2025 ~ Present)
+        
       - title: 포스코 마케팅 메타버스 Slab설계 최적화 구축 과제 한양대 에리카 전문교수 상세설계 용역
         tagline: "PSOCO DX. (2024 - Present)"
 
@@ -220,7 +221,7 @@ publications:
       - title: "Balancing Yield and Makespan in Wafer Fabrication: A Two-Stage Data-Driven Scheduling Approach"
         link: https://doi.org/10.1016/j.jmsy.2025.07.009
         authors: <b style="color:black">Kim, M.-G.</b>, Kim, H.*, Barde, S., & Lee, C.-H.
-        conference: "Journal of Manufacturing Systems. 82, 874-904."
+        conference: "Journal of Manufacturing Systems. 82, 874-904. (2025)."
         
       - title: "Balancing Yield and Makespan in Wafer Fabrication: A Two-Stage Data-Driven Scheduling Approach"
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12292421
