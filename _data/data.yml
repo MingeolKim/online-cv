@@ -89,6 +89,8 @@ projects:
     intro: >
 
     assignments:
+      - title: RIAM 러닝 팩토리 플랫폼
+        tagline: 한국생산기술원 (KITECH). (2025 ~ Present)
       - title: 포스코 마케팅 메타버스 Slab설계 최적화 구축 과제 한양대 에리카 전문교수 상세설계 용역
         tagline: "PSOCO DX. (2024 - Present)"
 
@@ -106,6 +108,14 @@ awards:
 teaching_experiences:
     title: Teaching Assistant
     info:
+      - role: Decision Making Under Uncertainty
+        institution: "Hanyang University ERICA"
+        time: Spring 2025
+      
+      - role: Introduction to Operations Research
+        institution: "Hanyang University ERICA"
+        time: Spring 2025
+        
       - role: C++/Java Programming
         institution: "Hanyang University ERICA"
         time: Fall 2024
@@ -207,6 +217,26 @@ publications:
     intro: |
 
     papers:
+      - title: "Balancing Yield and Makespan in Wafer Fabrication: A Two-Stage Data-Driven Scheduling Approach"
+        link: https://doi.org/10.1016/j.jmsy.2025.07.009
+        authors: <b style="color:black">Kim, M.-G.</b>, Kim, H.*, Barde, S., & Lee, C.-H.
+        conference: "Journal of Manufacturing Systems. 82, 874-904."
+        
+      - title: "Balancing Yield and Makespan in Wafer Fabrication: A Two-Stage Data-Driven Scheduling Approach"
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12292421
+        authors: <b style="color:black">Kim, M.-G.</b>, Lee, C.-H., Barde, S., & Kim, H.*
+        conference: "2025 KIIE/KORMS/KSS Joint Conference (Jeju Haevichi Hotel & Resort, Jeju). (June 18-21, 2025)"
+        
+      - title: "An MILP-Based Integrated Approach for Optimizing Slab and Motherplate Design in Continuous Casting"
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12292358
+        authors: Kim, D., Kim, A., <b style="color:black"> Kim, M.-G.</b>, Jeon, J., & Kim, H.* 
+        conference: "2025 KIIE/KORMS/KSS Joint Conference (Jeju Haevichi Hotel & Resort, Jeju). (June 18-21, 2025)"
+        
+      - title: "Single-Machine Batch Scheduling in Diffusion Process with Lot-to-Slot Constraints"
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12292352
+        authors: Kim, A., <b style="color:black"> Kim, M.-G.</b>, & Kim, H.*  
+        conference: "2025 KIIE/KORMS/KSS Joint Conference (Jeju Haevichi Hotel & Resort, Jeju). (June 18-21, 2025)"
+        
       - title: "Binary Search-Based Exact Method for Single Machine Scheduling under Periodic Unavailability"
         link: 
         authors: Jeon, J.-B.,<b style="color:black"> Kim, M.-G.</b>, & Kim, H.* 
