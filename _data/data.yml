@@ -211,10 +211,9 @@ experiences:
         company: College of Engineering Student Council, Gachon University 
         details: |
 
-
-
+        
 publications:
-    title: Publications
+    title: International Journal Paper
     intro: |
 
     papers:
@@ -222,6 +221,13 @@ publications:
         link: https://doi.org/10.1016/j.jmsy.2025.07.009
         authors: <b style="color:black">Kim, M.-G.</b>, Kim, H.*, Barde, S., & Lee, C.-H.
         conference: "Journal of Manufacturing Systems. 82, 874-904. (2025)."
+
+
+publications:
+    title: Conference
+    intro: |
+
+    papers:
         
       - title: "Balancing Yield and Makespan in Wafer Fabrication: A Two-Stage Data-Driven Scheduling Approach"
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12292421
