@@ -102,9 +102,15 @@ awards:
     title: Awards & Honors
     intro: >
 
-    contributions: 
-      - title: Encouragement Award, 2024 Korea University Students S&OP Competi
-        tagline: "The Korean Society of Supply Chain Management (November 8, 2024)"
+    contributions:
+      - title: 2025년 이공계 석사우수장학금 
+        tageline: "한국장학재단 (December 16, 2025)"
+        
+      - title: AI Factory Hackathon (최우수상)
+        tageline: "산업통산자원부 (December 16, 2025)"
+        
+      - title: 2024 한국 S&OP 경진대회 (장려상) 
+        tagline: "한국 SCM 학회 (November 8, 2024)"
 
 teaching_experiences:
     title: Teaching Assistant
@@ -228,7 +234,12 @@ publications:
     intro: |
 
     papers:
-        
+    
+      - title: "Binary Search-Guided Framework for Single Machine Scheduling Under Periodic Unavailability: A Hybrid Heuristic-Exact Optimization Approach."
+        link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12484340
+        authors: Jeon, J.-B.,<b style="color:black"> Kim, M.-G.</b>, & Kim, H.*
+        conference: "2025 Fall Conference of KIIE (KAIST, Daejeon, Korea). (November 6-7, 2025)"
+    
       - title: "Balancing Yield and Makespan in Wafer Fabrication: A Two-Stage Data-Driven Scheduling Approach"
         link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12292421
         authors: <b style="color:black">Kim, M.-G.</b>, Lee, C.-H., Barde, S., & Kim, H.*
@@ -252,7 +263,7 @@ publications:
       - title: "Optimizing Hybrid Flow Shop Scheduling in Wafer Fabrication: Balancing Quality and Productivity"
         link: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964599&nodeId=NODE11964599&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&foreignIpYn=N&articleTitle=Optimizing+Hybrid+Flow+Shop+Scheduling+in+Wafer+Fabrication%3A+Balancing+Quality+and+Productivity&articleTitleEn=Optimizing+Hybrid+Flow+Shop+Scheduling+in+Wafer+Fabrication%3A+Balancing+Quality+and+Productivity&voisId=VOIS00760103&voisName=2024%EB%85%84+%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C+%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C&voisCnt=239&language=ko_KR&hasTopBanner=true"
         authors: <b style="color:black">Kim, M.-G.</b>, Lee, C.-H., Barde, S., & Kim, H.*
-        conference: "2024 Fall Conference of KIIE (ST Center, Seoul). (October 24-25, 2024)"
+        conference: "2024 Fall Conference of KIIE (ST Center, Seoul, Korea). (October 24-25, 2024)"
 
 
 skills:
